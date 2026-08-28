@@ -34,7 +34,7 @@ Search for **Night MJY** in the VS Code Extensions view after the extension is p
 
 ### From a VSIX file
 
-1. Download the latest `.vsix` file from the [Releases](../../releases) page.
+1. Download the latest `.vsix` file from the repository's Releases page.
 2. Open VS Code.
 3. Open the Command Palette and run **Extensions: Install from VSIX...**.
 4. Select the downloaded file.
@@ -53,7 +53,7 @@ code --install-extension night-mjy-0.2.5.vsix
 3. Open **Preferences: Color Theme**.
 4. Select `Night (MJY)` or `Day (MJY)`.
 
-Theme definitions live in [`themes/`](themes/).
+Theme definitions live in the `themes/` directory.
 
 ## Packaging
 

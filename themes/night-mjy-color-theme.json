@@ -203,7 +203,7 @@
     {
       "name": "Keywords and storage",
       "scope": ["keyword", "storage", "storage.type", "storage.modifier"],
-      "settings": {"foreground": "#94FEBF"}
+      "settings": {"foreground": "#A4FBD0"}
     },
     {
       "name": "Constants and numbers",
@@ -228,7 +228,7 @@
     {
       "name": "Types and classes",
       "scope": ["entity.name.type", "entity.name.class", "support.type", "support.class"],
-      "settings": {"foreground": "#91B4D5"}
+      "settings": {"foreground": "#8FD3FF"}
     },
     {
       "name": "Tags and attributes",
@@ -268,7 +268,7 @@
     {
       "name": "Markup links",
       "scope": ["markup.underline.link", "string.other.link"],
-      "settings": {"foreground": "#94FEBF", "fontStyle": "underline"}
+      "settings": {"foreground": "#72E6B2", "fontStyle": "underline"}
     },
     {
       "name": "Invalid",
@@ -292,21 +292,21 @@
     "comment": "#767C9D",
     "string": "#94FEBF",
     "number": "#FFD580",
-    "keyword": "#94FEBF",
+    "keyword": "#A4FBD0",
     "operator": "#A6ACCD",
     "function": "#8BE9FD",
-    "method": "#8BE9FD",
-    "class": "#91B4D5",
-    "interface": "#91B4D5",
-    "type": "#91B4D5",
-    "typeParameter": "#A6ACCD",
+    "method": "#7FD8E8",
+    "class": "#8FD3FF",
+    "interface": "#8FD3FF",
+    "type": "#8FD3FF",
+    "typeParameter": "#C4B5FF",
     "parameter": "#F4F7FF",
     "variable": "#F4F7FF",
     "property": "#D6E3FF",
-    "enumMember": "#94FEBF",
+    "enumMember": "#72E6B2",
     "namespace": "#91B4D5",
     "decorator": "#C4B5FF",
-    "label": "#94FEBF",
+    "label": "#72E6B2",
     "regexp": "#5FB3A1"
   }
 }
