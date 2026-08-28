@@ -1,0 +1,4 @@
+.gitignore
+ADR.md
+GLOSSARY.md
+*.vsix

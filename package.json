@@ -1,0 +1,28 @@
+{
+  "name": "night-mjy",
+  "displayName": "Night (MJY)",
+  "description": "A cool, high-contrast dark theme inspired by the Ghostty Night palette.",
+  "version": "0.2.5",
+  "publisher": "mjy",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night (MJY)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night-mjy-color-theme.json"
+      },
+      {
+        "label": "Day (MJY)",
+        "uiTheme": "vs",
+        "path": "./themes/day-mjy-color-theme.json"
+      }
+    ]
+  }
+}
